@@ -1,0 +1,115 @@
+body
+{
+    max-width: 1000px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.navbar
+{
+    max-width: 50%;
+}
+
+.navbar a
+{
+    color: palevioletred !important;
+}
+
+label
+{
+    color: palevioletred;
+    font-weight: 500;
+}
+
+.heading
+{
+    margin-bottom: 30px;
+    text-align: center;
+    color: palevioletred;
+}
+
+.formContainer
+{
+    margin: auto;
+    max-width: 42%;
+    margin-bottom: 50px;
+}
+
+.otherLogins a
+{
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.otherLogins span
+{
+    color: palevioletred;
+}
+
+.warnMsg
+{
+    color: red;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.welcomeUser
+{
+    margin-bottom: 20px;
+}
+
+.buttons a
+{
+    margin-top: 30px;
+}
+
+.buttons :nth-child(1)
+{
+    color: palevioletred;
+}
+
+table thead
+{
+    color: palevioletred;
+}
+
+.genStats
+{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.genStats b
+{
+    color: palevioletred;
+}
+
+span
+{
+    color: white;
+}
+
+.registerLink
+{
+    color: palevioletred;
+}
+
+.registerLink:hover
+{
+    color: palevioletred;
+}
+
+.modal span
+{
+    color: grey;
+}
+
+footer
+{
+    margin-top: 50px;
+    color: lightgrey;
+    text-align: center;
+    font-size: 10px;
+}
